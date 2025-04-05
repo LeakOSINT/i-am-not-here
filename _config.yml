@@ -3,8 +3,4 @@ description: Телеграм бот для поиска по базам пер�
 show_downloads: false
 theme: jekyll-theme-architect
 
-plugins:
-  - jekyll-seo-tag
 
-jekyll-seo-tag:
-  hide_generator: true
