@@ -1,6 +1,7 @@
 title: Leak OSINT
 description: Телеграм бот для поиска по базам персональных данных.
 show_downloads: false
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-seo-tag
